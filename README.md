@@ -1,3 +1,3 @@
 # MPNavigationStack
 
-A description of this package.
+This is a custom navigations stack for SwiftUI applications.
